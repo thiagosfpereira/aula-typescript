@@ -25,5 +25,5 @@ export class Carro {
   carro.placa = 'KGZ-0701';
   carro.modelo = 'Suv';
   
-  carro.buzinar();
+  carro.buzinar(); 
   console.log('Carrinho: ', carro);
